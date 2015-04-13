@@ -49,7 +49,7 @@ The file produced can be read a VCD file viewer like GtkWave.
 
 The analog pins a prefixed by A and the digital pins by D.
 
-[![GtkWave Snapshot](https://github.com/safchain/arduiscope/doc/gtkwave.png)](https://github.com/safchain/arduiscope/doc/gtkwave.png)
+[![GtkWave Snapshot](https://github.com/safchain/arduiscope/blob/master/doc/gtkwave.png)](https://github.com/safchain/arduiscope/blob/master/doc/gtkwave.png)
 
 LICENSE
 -------
